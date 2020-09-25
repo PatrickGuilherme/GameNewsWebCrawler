@@ -3,5 +3,7 @@
  
  Lembrete
  > Mudar a string de conexão;
+ 
  > Executar no console de pacotes os comandos "Add-migrations initial" e "update-database";
+ 
  > Link utilizado: https://www.comboinfinito.com.br/principal/category/games/;
