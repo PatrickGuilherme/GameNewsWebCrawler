@@ -8,10 +8,10 @@
  > Executar no console de pacotes os comandos "Add-migrations initialMigration" e "update-database" para criar o banco;
  
  > Pacotes nugets utilizados: 
-   -> HtmlAgilityPack v1.11.24
-   -> Microsoft.EntityFrameworkCore v3.1.8
-   -> Microsoft.EntityFrameworkCore.SqlVerver v3.1.8
-   -> Microsoft.EntityFrameworkCore.Tools v3.1.8
-   -> System.Net.Http v4.3.4
+   - HtmlAgilityPack v1.11.24
+   - Microsoft.EntityFrameworkCore v3.1.8
+   - Microsoft.EntityFrameworkCore.SqlVerver v3.1.8
+   - Microsoft.EntityFrameworkCore.Tools v3.1.8
+   - System.Net.Http v4.3.4
  
  > Link utilizado: https://www.comboinfinito.com.br/principal/category/games/;
